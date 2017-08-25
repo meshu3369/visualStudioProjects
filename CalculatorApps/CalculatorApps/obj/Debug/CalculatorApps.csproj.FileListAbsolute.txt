@@ -1,0 +1,8 @@
+c:\users\meshu\documents\visual studio 2012\Projects\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe.config
+c:\users\meshu\documents\visual studio 2012\Projects\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.csprojResolveAssemblyReference.cache
+c:\users\meshu\documents\visual studio 2012\Projects\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe
+c:\users\meshu\documents\visual studio 2012\Projects\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.pdb
+c:\users\meshu\documents\visual studio 2012\Projects\CalculatorApps\CalculatorApps\bin\Debug\CalculatorClassLib.dll
+c:\users\meshu\documents\visual studio 2012\Projects\CalculatorApps\CalculatorApps\bin\Debug\CalculatorClassLib.pdb
+c:\users\meshu\documents\visual studio 2012\Projects\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.exe
+c:\users\meshu\documents\visual studio 2012\Projects\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.pdb

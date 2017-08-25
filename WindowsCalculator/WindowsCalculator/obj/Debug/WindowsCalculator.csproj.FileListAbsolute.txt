@@ -1,0 +1,12 @@
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojResolveAssemblyReference.cache
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Form1.resources
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.Cache
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+c:\users\meshu\documents\visual studio 2012\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+c:\Users\meshu\Documents\Visual Studio 2012\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\CalculatorClassLib.dll
+c:\Users\meshu\Documents\Visual Studio 2012\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\CalculatorClassLib.pdb
+C:\Users\meshu\Documents\Visual Studio 2012\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Form2.resources

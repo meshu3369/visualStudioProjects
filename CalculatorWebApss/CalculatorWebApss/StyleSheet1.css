@@ -1,0 +1,43 @@
+﻿body {
+}
+.heading_top {
+  display: inline;
+  margin-left: 10px;
+  position: relative;
+  top: -10px;
+  left: 0;
+}
+#history {
+  margin-left: 100px;
+  margin-top: -5px;
+  text-align: right;
+  height: 20px !important;
+  width: 205px !important;
+  background: #f6f6f6;
+  color: #777;
+}
+#result {
+ text-align: right;
+}
+.menu {
+  
+}
+.button_area {
+  margin-top: 10px;
+}
+.button_area .number_button{
+     margin-right: 10px;
+     cursor: pointer;
+ }
+.operator_button {
+   margin-left: 10px;
+   cursor: pointer;
+}
+.functional_button {
+    cursor: pointer;
+  margin-left: 10px;
+}
+
+form#form1 {
+    margin-left:200px;
+}
